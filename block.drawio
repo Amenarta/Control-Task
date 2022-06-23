@@ -1,0 +1,26 @@
+<mxfile host="65bd71144e">
+    <diagram id="8uHcilVIY4l3KLFmJI9Z" name="Страница 1">
+        <mxGraphModel dx="549" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="270" y="60"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="string[ ] myArray = {&quot;1234&quot;, &quot;Moscow&quot;, &quot;Oda&quot;, &quot;Smile&quot;};&lt;br&gt;index[i] = 0;&lt;br&gt;int length = word.length;&lt;br&gt;string[ ] result = 0;&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="70" width="340" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="220" width="240" height="130" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
